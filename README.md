@@ -8,8 +8,7 @@
 
 1. 克隆此仓库：
     ```sh
-    git clone <repository_url>
-    cd YOLOv8_FruitDetect
+    git clone https://github.com/Freakz3z/YOLOv8-Fruit-Detect.git
     ```
 
 2. 安装依赖项：
